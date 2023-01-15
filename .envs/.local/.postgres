@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=backchat
+POSTGRES_USER=dxyIAKmxnlHHUxsLpggqSnQXtFyrQrLZ
+POSTGRES_PASSWORD=hjxYu7ZNTa3kTRB9UxlorpRqi4qeY1nnXKYobVf1bfsLMW5eP8woPhd8UKLRMQ4A
