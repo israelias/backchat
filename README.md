@@ -1,11 +1,10 @@
 # Chat Pipeline
 
-A webchat app with Django4
+A simple webchat app with Django4, with db resources on CockroachDB, resourced via Python pysql and served via SolidJS frontend.
 
 [![Built with Cookiecutter Django](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter)](https://github.com/cookiecutter/cookiecutter-django/)
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
-License: MIT
 
 ## Settings
 
@@ -65,3 +64,7 @@ The following details how to deploy this application.
 ### Docker
 
 See detailed [cookiecutter-django Docker documentation](http://cookiecutter-django.readthedocs.io/en/latest/deployment-with-docker.html).
+
+## License
+[MIT License](/LICENSE) Copyright (c) 2021 Joem Elias Sanez
+
