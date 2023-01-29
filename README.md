@@ -66,5 +66,5 @@ The following details how to deploy this application.
 See detailed [cookiecutter-django Docker documentation](http://cookiecutter-django.readthedocs.io/en/latest/deployment-with-docker.html).
 
 ## License
-[MIT License](/LICENSE) Copyright (c) 2021 Joem Elias Sanez
+[MIT License](/LICENSE) Copyright (c) 2023 Joem Elias Sanez
 
